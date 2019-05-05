@@ -2,8 +2,9 @@ public class AnimalInheritance
 {
 public static void main(string args[])
 {
-Cat cat=new Cat(false,"milk");
+Cat cat=new Cat(false,"milk",4);
 System.out.println("Cat is vegetarian?"+cat.IsVegetarian());
 System.out.println("Cat Eats"+cat.getEats());
+System.out.println("cat has"+cat.getNoOfLegs()+"legs");
 }
 }
