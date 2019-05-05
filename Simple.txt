@@ -10,8 +10,10 @@ System.out.println("cat color is"+cat.getColor());
 //adding dog also in this class
 System.out.println("DOG");
 
+
 //adding lion to this class
 System.out.println("LION");
+
 
 }
 }
