@@ -9,9 +9,8 @@ System.out.println("cat has"+cat.getNoOfLegs()+"legs");
 System.out.println("cat color is"+cat.getColor());
 //adding dog also in this class
 
+System.out.println("DONKEY");
 
-
-//adding lion to this class
 System.out.println("LION");
 
 
